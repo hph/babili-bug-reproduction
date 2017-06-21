@@ -1,3 +1,5 @@
+# UPDATE: Issue resolved by updating dependencies
+
 # Info
 
 I ran into a weird bug when compiling React in production with Babili, in what
